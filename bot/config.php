@@ -9,11 +9,12 @@ error_reporting(0);
 
 
 //Your Api key
-$apiKey = 'your_telegram_api_key';
+$apiKey = '7261818805:AAGmX8nEIp0nMXoOVNPJlbKC9DqOS35RupM';
 //Your bot name
-$botUsername = 'my_bot_name';
+$botUsername = 'dddfdfdf
+';
 //Your domain name
-$web_app = 'https://yoururlhere.com';
+$web_app = 'https://test1-iota-one.vercel.app/';
 //Youd database info
 $DB = [
 'dbname' => 'your_database',
